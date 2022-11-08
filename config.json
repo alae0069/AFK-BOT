@@ -1,6 +1,6 @@
 {
-	"ip":"donator3.falixnodes.net",
-	"port": 25710,
+	"ip":"STORM_X.aternos.me:14672",
+	"port": 14672,
 	"name": "afkbot1",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
